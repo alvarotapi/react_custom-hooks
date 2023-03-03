@@ -1,3 +1,3 @@
 # Custom Hooks
 
-Repositorio de Custom Hooks, del curso React de Udemy
+Repositorio de Custom Hooks
